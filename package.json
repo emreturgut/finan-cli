@@ -1,0 +1,23 @@
+{
+  "name": "finan-cli",
+  "version": "1.0.0",
+  "description": "CLI For Stock Market",
+  "main": "index.js",
+  "bin": "./bin/financli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emreturgut/finan-cli.git"
+  },
+  "author": "Emre Turgut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emreturgut/finan-cli/issues"
+  },
+  "homepage": "https://github.com/emreturgut/finan-cli#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
