@@ -4,7 +4,7 @@ const package = require('../package.json')
 
 commander
     .version(package.version)
-    .command('key','Manage API Key')
+    .command('key','Manage API Key - https://finnhub.io')
     .parse(process.argv);
 
     // .parse(argv => console.log(argv))
